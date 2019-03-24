@@ -1,0 +1,6 @@
+.carousel *{
+    width: 400px!important;
+}
+.carousel-item img{
+    width: 400px!important;
+}
